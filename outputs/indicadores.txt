@@ -1,4 +1,6 @@
+============================================================
 RESPOSTAS DAS PERGUNTAS
+============================================================
 
 1 - Escola com maior média:
 OBS: A base oficial disponibilizada para o teste não possui identificador único ou nome da instituição de ensino (CO_ESCOLA ou NO_ESCOLA).

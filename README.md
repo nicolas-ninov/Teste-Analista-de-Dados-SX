@@ -35,7 +35,7 @@ Durante o desenvolvimento foram priorizados:
 ```text
 teste_tecnico_pulse/
 
-├── dados/
+├── dados/          # Base oficial do ENEM (não versionada)
 │   ├── ITENS_PROVA_2020.csv
 │   └── MICRODADOS_ENEM_2020.csv
 │
@@ -48,7 +48,7 @@ teste_tecnico_pulse/
 │   ├── modelagem_dimensional.md
 │   └── queries.sql
 │
-├── inputs/
+├── inputs/         # Dataset tratado gerado localmente
 │   └── enem_2020_tratado.csv
 │
 ├── outputs/
