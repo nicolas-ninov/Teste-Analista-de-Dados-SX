@@ -1,0 +1,38 @@
+RESPOSTAS DAS PERGUNTAS
+
+1 - Escola com maior média:
+OBS: A base oficial disponibilizada para o teste não possui identificador único ou nome da instituição de ensino (CO_ESCOLA ou NO_ESCOLA).
+Por esse motivo, optou-se por não inferir uma resposta incorreta a partir dos dados disponíveis.
+
+Informação complementar: Município com maior média: Santana do Manhuaçu | Média: 706.56
+
+2 - Aluno(s) com maior média:
+Inscrição: 200005996961 | Média: 858.58
+
+3 - Média geral:
+526.58
+
+4 - Percentual de ausentes:
+55.24%
+
+5 - Total de inscritos:
+5783109
+
+6 - Média por disciplina:
+NU_NOTA_CN: 490.53
+NU_NOTA_CH: 514.29
+NU_NOTA_LC: 526.02
+NU_NOTA_MT: 520.73
+NU_NOTA_REDACAO: 581.34
+
+7 - Média por sexo:
+M: 534.73
+F: 521.24
+
+8 - Média por etnia:
+Branca: 556.53
+Não declarado: 534.05
+Amarela: 524.94
+Parda: 508.66
+Preta: 500.87
+Indígena: 472.84
